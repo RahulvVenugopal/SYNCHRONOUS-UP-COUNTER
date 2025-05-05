@@ -66,3 +66,4 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **TRUTH TABLE**
 ![DE 11 b](https://github.com/user-attachments/assets/8ee63de0-3044-44f0-8563-a2f89e77afb4)
 **RESULTS**
+Thus the 4-bit synchronous up counter is implemented succeessfully.
